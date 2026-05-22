@@ -7,8 +7,8 @@ env:
   ANYKERNEL_REPO: https://github.com/Kurozuka97/AnyKernel3
 
   # Identity
-  BUILD_USER: Kurozuka97
-  BUILD_HOST: KuroKernel
+  BUILD_USER: Kuro
+  BUILD_HOST: XvyraGKI
 
   # Toolchain download links
   URL_NEUTRON_19:          https://raw.githubusercontent.com/Neutron-Toolchains/antman/main/antman
