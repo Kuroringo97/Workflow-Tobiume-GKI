@@ -4,7 +4,7 @@ name: Build kernel
 env:
   # Repos
   KERNEL_REPO:    https://github.com/Kurozuka97/kernel_common-5.10
-  ANYKERNEL_REPO: https://github.com/Kurozuka97/AnyKernel3
+  ANYKERNEL_REPO: https://github.com/Kuroringo97/anykernel3_Tobiume
 
   # Identity
   BUILD_USER: Kuro
