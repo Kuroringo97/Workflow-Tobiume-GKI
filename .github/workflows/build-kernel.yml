@@ -3,7 +3,7 @@ name: Build kernel
 # ── CONFIG — edit links here ────────────────────────────────────────
 env:
   # Repos
-  KERNEL_REPO:    https://github.com/Kurozuka97/kernel_common-5.10
+  KERNEL_REPO:    https://github.com/Kurozuka97/android_kernel_common_android12-5.10/tree/mahiru-quince-schedhorizon
   ANYKERNEL_REPO: https://github.com/Kuroringo97/anykernel3_Tobiume
 
   # Identity
