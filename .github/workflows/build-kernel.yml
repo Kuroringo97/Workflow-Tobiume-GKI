@@ -48,7 +48,7 @@ on:
       kernel_name:
         description: 'Output zip name (no .zip)'
         type: string
-        default: KuroKernel
+        default: Tobiume-Kernel
 
 jobs:
   setup:
